@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omnivex Player"
+    id="id-70e6c171-087d-44cc-9ac8-f04de688a4e0"
+    documentation="Media Player software for the Omnivex Digital Signage solution. One player per display PC."/>

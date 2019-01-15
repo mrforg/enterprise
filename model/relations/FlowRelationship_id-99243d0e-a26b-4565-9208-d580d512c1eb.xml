@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Request (Web Proxy)"
+    id="id-99243d0e-a26b-4565-9208-d580d512c1eb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80e5e88d-b123-4187-a6ee-0dd52dea8fde.xml#id-80e5e88d-b123-4187-a6ee-0dd52dea8fde"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fc337a95-c6a6-49bb-b168-c8495bd3004f.xml#id-fc337a95-c6a6-49bb-b168-c8495bd3004f"/>
+</archimate:FlowRelationship>

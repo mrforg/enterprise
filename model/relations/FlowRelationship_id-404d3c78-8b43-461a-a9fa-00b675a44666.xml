@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Resp (PED)"
+    id="id-404d3c78-8b43-461a-a9fa-00b675a44666">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-25a260cd-5954-44ba-92b6-9ca1e09332c7.xml#id-25a260cd-5954-44ba-92b6-9ca1e09332c7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80e5e88d-b123-4187-a6ee-0dd52dea8fde.xml#id-80e5e88d-b123-4187-a6ee-0dd52dea8fde"/>
+</archimate:FlowRelationship>

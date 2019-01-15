@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROU"
+    id="id-1001a9cf-347e-4b29-86cd-caacf1d4af4e"
+    documentation="IUK- 0023- Replenishment Order Update">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14.xml#id-14"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30.xml#id-30"/>
+</archimate:FlowRelationship>

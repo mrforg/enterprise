@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Despatch Credit Flag"
+    id="id-323165b0-4cd9-446f-8e48-3af7b99947a7"
+    documentation="IUK-0002- Despatch credit flag to allow/disallow delivery">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31.xml#id-31"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14.xml#id-14"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN013"
+    id="id-188bc054-fe5e-4e94-a011-f83543f1c874"
+    documentation="Web requests to register,File -> PROXY, Async"/>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitors Extract"
+    id="id-18066b3c-58d9-4118-8e38-c6c462ffde87"
+    documentation="IUK- 0008- Solicitors extract">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-19.xml#id-19"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-02d30dac-dccf-49fc-89fa-a150bf480d00.xml#id-02d30dac-dccf-49fc-89fa-a150bf480d00"/>
+</archimate:FlowRelationship>

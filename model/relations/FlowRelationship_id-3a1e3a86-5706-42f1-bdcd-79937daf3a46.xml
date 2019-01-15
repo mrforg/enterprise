@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Reporting"
+    id="id-3a1e3a86-5706-42f1-bdcd-79937daf3a46">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ca9afe5a-0a5f-4417-8331-b983dff07b6a.xml#id-ca9afe5a-0a5f-4417-8331-b983dff07b6a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-53.xml#id-53"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web Payments"
+    id="id-8c3437d3-d28d-408b-bd6e-cc72998c6b56">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f521b590-520e-4087-9dec-76dea08bbe70.xml#id-f521b590-520e-4087-9dec-76dea08bbe70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31.xml#id-31"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interco Despatches"
+    id="id-9f947fe1-318e-46e3-88b6-5d85ff5bcb83">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-9e3dfdba-80f3-4b9a-aab6-2f07f4d285b2.xml#id-9e3dfdba-80f3-4b9a-aab6-2f07f4d285b2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30.xml#id-30"/>
+</archimate:FlowRelationship>

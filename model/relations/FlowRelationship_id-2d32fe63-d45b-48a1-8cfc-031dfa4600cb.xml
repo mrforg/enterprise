@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Material"
+    id="id-2d32fe63-d45b-48a1-8cfc-031dfa4600cb"
+    documentation="CnC Material">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30.xml#id-30"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-42.xml#id-42"/>
+</archimate:FlowRelationship>

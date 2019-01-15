@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NonConfigMatPrice"
+    id="id-8e8195c8-ef95-4291-90ce-811a21cf54b9"
+    documentation="CnC NonConfigMatPrice">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30.xml#id-30"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-42.xml#id-42"/>
+</archimate:FlowRelationship>

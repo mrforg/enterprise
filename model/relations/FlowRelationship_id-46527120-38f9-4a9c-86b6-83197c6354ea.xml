@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Acceptance Letters"
+    id="id-46527120-38f9-4a9c-86b6-83197c6354ea">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31.xml#id-31"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ca8448f7-d710-48ac-9dbc-089e17abbc66.xml#id-ca8448f7-d710-48ac-9dbc-089e17abbc66"/>
+</archimate:FlowRelationship>

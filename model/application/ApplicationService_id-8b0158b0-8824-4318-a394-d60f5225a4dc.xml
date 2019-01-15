@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock"
+    id="id-8b0158b0-8824-4318-a394-d60f5225a4dc"
+    documentation="CnC Stock,PROXY -> File, Async"/>

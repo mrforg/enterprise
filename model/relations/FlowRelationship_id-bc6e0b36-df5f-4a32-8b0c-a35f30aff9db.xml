@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Despatches"
+    id="id-bc6e0b36-df5f-4a32-8b0c-a35f30aff9db">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-2baf109e-7811-44fd-91d0-4fea8803f076.xml#id-2baf109e-7811-44fd-91d0-4fea8803f076"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29.xml#id-29"/>
+</archimate:FlowRelationship>

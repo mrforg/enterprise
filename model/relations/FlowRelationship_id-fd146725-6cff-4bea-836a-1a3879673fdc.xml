@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Status"
+    id="id-fd146725-6cff-4bea-836a-1a3879673fdc"
+    documentation="IUK- 0031- Trade Account Status">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31.xml#id-31"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8e5042b6-c48d-4671-9a60-316b7b8fac40.xml#id-8e5042b6-c48d-4671-9a60-316b7b8fac40"/>
+</archimate:FlowRelationship>

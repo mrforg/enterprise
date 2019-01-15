@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitors Extract"
+    id="id-d5c78763-ea06-49af-85e3-3be4dfab1272">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-91449278-416f-4cc4-a92e-493103bea1f7.xml#id-91449278-416f-4cc4-a92e-493103bea1f7"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-02d30dac-dccf-49fc-89fa-a150bf480d00.xml#id-02d30dac-dccf-49fc-89fa-a150bf480d00"/>
+</archimate:FlowRelationship>

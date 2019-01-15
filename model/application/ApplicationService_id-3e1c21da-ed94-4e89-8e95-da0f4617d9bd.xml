@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRMS MA"
+    id="id-3e1c21da-ed94-4e89-8e95-da0f4617d9bd"
+    documentation="Customer Invoices to SAP - Marbodal (Sweden),FTP -> RFC, Async"/>

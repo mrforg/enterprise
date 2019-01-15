@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prospect Creation"
+    id="id-e889c297-265f-4fdc-b972-9ed19e70c9d6"
+    documentation="IUK- 0037- Prospect Creation">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8e5042b6-c48d-4671-9a60-316b7b8fac40.xml#id-8e5042b6-c48d-4671-9a60-316b7b8fac40"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-443ad7c9-aa19-4ef7-8be4-02123edc3d6f.xml#id-443ad7c9-aa19-4ef7-8be4-02123edc3d6f"/>
+</archimate:FlowRelationship>

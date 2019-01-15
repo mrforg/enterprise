@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN011"
+    id="id-76a779c0-be71-4d9f-a04c-8556ccef96b3"
+    documentation="Account invoices to Mears,PROXY -> File, Async"/>

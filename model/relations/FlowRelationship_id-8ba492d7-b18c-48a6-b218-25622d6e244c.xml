@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mini Statements"
+    id="id-8ba492d7-b18c-48a6-b218-25622d6e244c">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d1606b8a-ee99-4f35-8609-7b78d7184338.xml#id-d1606b8a-ee99-4f35-8609-7b78d7184338"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8e5042b6-c48d-4671-9a60-316b7b8fac40.xml#id-8e5042b6-c48d-4671-9a60-316b7b8fac40"/>
+</archimate:FlowRelationship>

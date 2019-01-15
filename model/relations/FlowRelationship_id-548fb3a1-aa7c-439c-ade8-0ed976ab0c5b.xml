@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock Updates"
+    id="id-548fb3a1-aa7c-439c-ade8-0ed976ab0c5b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-61.xml#id-61"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7a739921-dd50-4696-baa1-0e078de901bc.xml#id-7a739921-dd50-4696-baa1-0e078de901bc"/>
+</archimate:FlowRelationship>

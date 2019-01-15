@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goods Receipts"
+    id="id-8d1b09c3-687e-4f9c-b77f-ac50c2163cd1">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-bd136cd9-7725-4f92-9146-4547e60f0e7a.xml#id-bd136cd9-7725-4f92-9146-4547e60f0e7a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14.xml#id-14"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN002"
+    id="id-465b8ff8-a796-4333-adf1-fc55fb9c7844"
+    documentation="Despatch credit flag to allow/disallow delivery,PROXY -> File, Async"/>

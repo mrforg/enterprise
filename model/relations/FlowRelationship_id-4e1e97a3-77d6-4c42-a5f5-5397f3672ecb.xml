@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RM Purchase Orders"
+    id="id-4e1e97a3-77d6-4c42-a5f5-5397f3672ecb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-66.xml#id-66"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-54f860b3-b0c5-48a5-9761-649ecb3d5e53.xml#id-54f860b3-b0c5-48a5-9761-649ecb3d5e53"/>
+</archimate:FlowRelationship>

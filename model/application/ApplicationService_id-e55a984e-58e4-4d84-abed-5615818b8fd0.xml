@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN017"
+    id="id-e55a984e-58e4-4d84-abed-5615818b8fd0"
+    documentation="Open purchase orders,PROXY -> File, Async"/>

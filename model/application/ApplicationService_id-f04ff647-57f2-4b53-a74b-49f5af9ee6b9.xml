@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRMS AT"
+    id="id-f04ff647-57f2-4b53-a74b-49f5af9ee6b9"
+    documentation="Customer Invoices to SAP - Almhut (Sweden),FTP -> RFC, Async"/>

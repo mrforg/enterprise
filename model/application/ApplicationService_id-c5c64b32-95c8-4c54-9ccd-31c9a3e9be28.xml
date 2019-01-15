@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INTL06 SalesDD"
+    id="id-c5c64b32-95c8-4c54-9ccd-31c9a3e9be28"
+    documentation="DD orders for GDS (200 per day),PROXY -> File, Async"/>

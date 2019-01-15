@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN012"
+    id="id-2ddaf2d5-0054-48c9-9d1d-d073a050951b"
+    documentation="Account customers to Website,PROXY -> File, Async"/>

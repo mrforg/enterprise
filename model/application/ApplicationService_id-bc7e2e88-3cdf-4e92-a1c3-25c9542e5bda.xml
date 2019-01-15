@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INTP010 Prospect Creation"
+    id="id-bc7e2e88-3cdf-4e92-a1c3-25c9542e5bda"
+    documentation="Prospects from Website,SOAP -> RFC, Sync"/>

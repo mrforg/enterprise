@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN005"
+    id="id-8c7c6e05-5dcd-4f93-a1d3-1882aba932dd"
+    documentation="B2B invoices (Jewson/Rixonway/Gower?),File -> iDoc, Async"/>

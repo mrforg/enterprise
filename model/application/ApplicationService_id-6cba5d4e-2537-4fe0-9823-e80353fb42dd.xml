@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mears"
+    id="id-6cba5d4e-2537-4fe0-9823-e80353fb42dd"
+    documentation="Mears PO request,PROXY -> SOAP (Ext), Sync"/>

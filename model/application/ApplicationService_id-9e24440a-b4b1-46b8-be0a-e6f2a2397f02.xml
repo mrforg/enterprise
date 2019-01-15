@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INTL22 Rep Ord"
+    id="id-9e24440a-b4b1-46b8-be0a-e6f2a2397f02"
+    documentation="Replenishment orders extract from MRP,PROXY -> File, Async"/>

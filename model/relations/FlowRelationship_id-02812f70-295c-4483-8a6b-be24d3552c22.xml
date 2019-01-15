@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Status"
+    id="id-02812f70-295c-4483-8a6b-be24d3552c22">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-0710f622-8d6d-43c2-844b-cb857fe7999e.xml#id-0710f622-8d6d-43c2-844b-cb857fe7999e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8e5042b6-c48d-4671-9a60-316b7b8fac40.xml#id-8e5042b6-c48d-4671-9a60-316b7b8fac40"/>
+</archimate:FlowRelationship>

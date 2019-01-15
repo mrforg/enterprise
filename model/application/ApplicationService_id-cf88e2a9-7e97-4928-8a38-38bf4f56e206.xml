@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INTL 24 Slotting"
+    id="id-cf88e2a9-7e97-4928-8a38-38bf4f56e206"
+    documentation="Obtain delivery dates from GDS,PROXY -> SOAP (int), Sync"/>

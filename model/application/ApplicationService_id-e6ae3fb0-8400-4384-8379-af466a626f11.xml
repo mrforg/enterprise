@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRMS Master Data"
+    id="id-e6ae3fb0-8400-4384-8379-af466a626f11"
+    documentation="Customer Master Data - Norway,SOAP -> PROXY, Sync"/>

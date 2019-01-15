@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN018"
+    id="id-bd136cd9-7725-4f92-9146-4547e60f0e7a"
+    documentation="Goods receipts of finished goods,PROXY -> File, Async"/>

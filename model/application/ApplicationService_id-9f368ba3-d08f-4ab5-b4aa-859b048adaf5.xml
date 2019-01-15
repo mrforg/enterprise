@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRMS VENDOR"
+    id="id-9f368ba3-d08f-4ab5-b4aa-859b048adaf5"
+    documentation="Create Vendor? Possibly not used,PROXY -> SOAP, Sync"/>

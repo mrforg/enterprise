@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN015"
+    id="id-d1606b8a-ee99-4f35-8609-7b78d7184338"
+    documentation="Mini statement transactions,PROXY -> File, Async"/>

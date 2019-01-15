@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NonConfigMatPrice"
+    id="id-c911f8fe-7b8f-4802-9fa6-5aa44d118f62"
+    documentation="CnC NonConfigMatPrice,PROXY -> File, Async"/>

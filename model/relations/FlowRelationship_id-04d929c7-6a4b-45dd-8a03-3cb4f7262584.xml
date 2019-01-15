@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Auth (PED)"
+    id="id-04d929c7-6a4b-45dd-8a03-3cb4f7262584">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-6d8dba69-ce94-4fb5-82a4-f52362cb80f5.xml#id-6d8dba69-ce94-4fb5-82a4-f52362cb80f5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-27.xml#id-27"/>
+</archimate:FlowRelationship>

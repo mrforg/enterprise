@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mears"
+    id="id-25db769d-6ebe-4199-b8fd-bfa5a7cfb8ef"
+    documentation="Mears PO Request">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31.xml#id-31"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fe06eac4-0c5a-4e07-9972-ee84c0b8f2d7.xml#id-fe06eac4-0c5a-4e07-9972-ee84c0b8f2d7"/>
+</archimate:FlowRelationship>

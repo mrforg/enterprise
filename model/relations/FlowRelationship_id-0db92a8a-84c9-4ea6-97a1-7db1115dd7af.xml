@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design Import (JP)"
+    id="id-0db92a8a-84c9-4ea6-97a1-7db1115dd7af">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-20d39099-18a9-44b9-9401-17aed8e24d05.xml#id-20d39099-18a9-44b9-9401-17aed8e24d05"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-91.xml#id-91"/>
+</archimate:FlowRelationship>

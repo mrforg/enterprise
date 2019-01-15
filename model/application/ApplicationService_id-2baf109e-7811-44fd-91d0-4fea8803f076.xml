@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IN001"
+    id="id-2baf109e-7811-44fd-91d0-4fea8803f076"
+    documentation="Despatches at Line level for invoicing, File -> PROXY, Async"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRMS TI"
+    id="id-a1a80545-9908-4426-9784-c7557c11716b"
+    documentation="Customer Invoices to SAP - Tidaholm (Sweden),FTP -> RFC, Async"/>

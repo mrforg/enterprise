@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INTL08 StockInfo"
+    id="id-44dd5930-223c-409d-91cd-32a39c7aeb59"
+    documentation="Exstock orders and Stock movements (200 per day),PROXY -> File, Async"/>

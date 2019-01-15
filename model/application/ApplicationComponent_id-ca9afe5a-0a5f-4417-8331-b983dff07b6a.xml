@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Financials"
+    id="id-ca9afe5a-0a5f-4417-8331-b983dff07b6a"
+    documentation="GL, AR, AP, FA, CM"/>

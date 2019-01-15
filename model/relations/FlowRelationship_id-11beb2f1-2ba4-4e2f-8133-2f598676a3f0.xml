@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Data"
+    id="id-11beb2f1-2ba4-4e2f-8133-2f598676a3f0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9673e09a-c23f-4814-9c45-20295980eafb.xml#id-9673e09a-c23f-4814-9c45-20295980eafb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-21.xml#id-21"/>
+</archimate:FlowRelationship>

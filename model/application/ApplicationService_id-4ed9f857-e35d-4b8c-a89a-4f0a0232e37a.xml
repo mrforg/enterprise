@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SalesBOM"
+    id="id-4ed9f857-e35d-4b8c-a89a-4f0a0232e37a"
+    documentation="CnC SalesBOM,PROXY -> File, Async"/>

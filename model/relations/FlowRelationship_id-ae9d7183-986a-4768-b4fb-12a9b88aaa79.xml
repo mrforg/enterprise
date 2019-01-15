@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Invoices (Mears)"
+    id="id-ae9d7183-986a-4768-b4fb-12a9b88aaa79"
+    documentation="IN011- Account invoices to Mears">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31.xml#id-31"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-15.xml#id-15"/>
+</archimate:FlowRelationship>

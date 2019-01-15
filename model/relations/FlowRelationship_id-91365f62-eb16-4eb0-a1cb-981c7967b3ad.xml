@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Emails"
+    id="id-91365f62-eb16-4eb0-a1cb-981c7967b3ad">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8e5042b6-c48d-4671-9a60-316b7b8fac40.xml#id-8e5042b6-c48d-4671-9a60-316b7b8fac40"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0701dc3b-db98-43bc-a93c-fb1d4c0b9b9f.xml#id-0701dc3b-db98-43bc-a93c-fb1d4c0b9b9f"/>
+</archimate:FlowRelationship>
