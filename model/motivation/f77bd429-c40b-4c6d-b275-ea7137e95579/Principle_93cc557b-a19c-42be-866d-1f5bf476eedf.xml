@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Continuity"
+    id="93cc557b-a19c-42be-866d-1f5bf476eedf"
+    documentation="Statement:&#xD;&#xA;Applications will be designed, built and implemented to address any business continuity concerns for those buisiness process either directly or indirectly impacted.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Ensures that the capability of the organization to continue delivery of products or services is maintained at acceptable predefined levels following a disruptive incident releted to the application availability. &#xD;&#xA;&#xD;&#xA;Implications:&#xD;&#xA;Business Continunity is dependent both on the Applications and Infrastructure domains within Architecture. The failure or loss of access to an Application can threaten business operations in different ways depending on which business processes the application covers and how it is integrated within the overall enterprise with other applications. Additional processes or Applications may need to be realized to maintain buisiness continuity for critical processes."/>

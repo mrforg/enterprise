@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Primary of Principles"
+    id="03fb6ae6-e99e-40d6-bba8-63dab46974e9"
+    documentation="Statement: &#xD;&#xA;These architectural principles will apply to all organisational units within the business in relation to Application Architecture.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;The only way we can provide a consistent and measurable level of quality information to decision-makers is if all organizations abide by the principles.&#xD;&#xA;&#xD;&#xA;Implications:&#xD;&#xA;Without this principle, exclusions, favoritism, and inconsistency would rapidly undermine the management of Application Architecture.&#xD;&#xA;Information and application management initiatives will not begin until they are examined for compliance with the principles.&#xD;&#xA;A conflict with a principle will be resolved by changing the framework of the initiative.&#xD;&#xA;"/>

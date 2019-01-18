@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Component Stanardization, Reusability &amp; Simplification"
+    id="cd0fd63f-6928-4243-a3f3-ab899d3e8520"
+    documentation="Statement:&#xD;&#xA;The enterprise architecture is built over low-coupling, reusable, modular components that implement services.&#xD;&#xA;Systems architecture must be as simple as possible to maintain yet meet all business and corporate requirements. Whenever complexity is required, it must be encapsulated to promote simplicity of solutions built on the architecture.&#x9;&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Reusable standard components represent opportunities to reduce IT development times and costs. Reusable components leverage investments in current systems. Modular components increase the systems' capacities to adapt to different evolution needs, because the change is isolated from affected modules.&#xD;&#xA;&#xD;&#xA;Implications:&#xD;&#xA;The architecture establishes standards and guidelines to develop system components and services.&#xD;&#xA;"/>
