@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Order"
+    id="081d9091-f87d-4a14-a1ba-de1e9329be9a"
+    documentation="Ref: 6.1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_307b8dcd-db5d-47e1-a302-265f5bdc6126.xml#307b8dcd-db5d-47e1-a302-265f5bdc6126"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f5ba06fc-341f-498e-88be-ccb24fe2c96b.xml#f5ba06fc-341f-498e-88be-ccb24fe2c96b"/>
+</archimate:FlowRelationship>

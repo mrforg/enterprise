@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance Data"
+    id="66beb29b-0699-47df-8ae0-b3d8dd77c049"
+    documentation="Ref: 70.1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d958b4ca-2465-4015-9412-52c3db40e7bd.xml#d958b4ca-2465-4015-9412-52c3db40e7bd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-53.xml#id-53"/>
+</archimate:FlowRelationship>

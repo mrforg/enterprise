@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Confirmation/ATP"
+    id="f1258499-42a9-4d5a-9e15-366478ca61a7"
+    documentation="Ref: 7.1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f5ba06fc-341f-498e-88be-ccb24fe2c96b.xml#f5ba06fc-341f-498e-88be-ccb24fe2c96b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ec19b127-1cba-4e54-9d4f-247125453537.xml#ec19b127-1cba-4e54-9d4f-247125453537"/>
+</archimate:FlowRelationship>

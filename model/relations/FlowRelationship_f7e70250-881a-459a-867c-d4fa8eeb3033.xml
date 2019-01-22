@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replacement Order"
+    id="f7e70250-881a-459a-867c-d4fa8eeb3033"
+    documentation="Ref: 8.1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_74c5bdfc-3545-45dc-82a1-8d781c093ec8.xml#74c5bdfc-3545-45dc-82a1-8d781c093ec8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f5ba06fc-341f-498e-88be-ccb24fe2c96b.xml#f5ba06fc-341f-498e-88be-ccb24fe2c96b"/>
+</archimate:FlowRelationship>

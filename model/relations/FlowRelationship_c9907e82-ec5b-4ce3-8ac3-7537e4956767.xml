@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchase Orders"
+    id="c9907e82-ec5b-4ce3-8ac3-7537e4956767"
+    documentation="Ref: 20.1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c3e7a8e7-e9c1-4283-bbe5-f643f4d65644.xml#c3e7a8e7-e9c1-4283-bbe5-f643f4d65644"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-86b56809-b877-468e-99bd-4fb832fdd541.xml#id-86b56809-b877-468e-99bd-4fb832fdd541"/>
+</archimate:FlowRelationship>
