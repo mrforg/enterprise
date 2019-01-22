@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opto"
+    id="ccb2e707-b856-4067-b1bc-bf8d43b67617"
+    documentation="Invoice Scanning">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:ApplicationComponent>

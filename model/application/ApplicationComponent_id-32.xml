@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SAP CO Financial Controlling"
-    id="id-32"/>
+    name="SAP CO Financial Controlling (UK)"
+    id="id-32"
+    documentation="SAP Finance UK Instance"/>

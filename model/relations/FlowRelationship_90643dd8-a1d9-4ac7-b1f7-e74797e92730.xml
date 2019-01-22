@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Confirmation"
+    id="90643dd8-a1d9-4ac7-b1f7-e74797e92730"
+    documentation="Ref: 1.2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a27ceedf-47b2-45d9-a1e4-e5006c2aeb41.xml#a27ceedf-47b2-45d9-a1e4-e5006c2aeb41"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c3e7a8e7-e9c1-4283-bbe5-f643f4d65644.xml#c3e7a8e7-e9c1-4283-bbe5-f643f4d65644"/>
+</archimate:FlowRelationship>

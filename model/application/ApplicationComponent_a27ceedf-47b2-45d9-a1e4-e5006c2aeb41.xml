@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Winner"
+    id="a27ceedf-47b2-45d9-a1e4-e5006c2aeb41"
+    documentation="Drawing Tool">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:ApplicationComponent>

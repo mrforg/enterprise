@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP FI Financial Accounting (Nordics)"
+    id="1498391d-f7c6-47b7-9c83-186c3c285e33"
+    documentation="Nordic Financials">
+  <properties
+      key="Business Unit"
+      value="Group"/>
+</archimate:ApplicationComponent>

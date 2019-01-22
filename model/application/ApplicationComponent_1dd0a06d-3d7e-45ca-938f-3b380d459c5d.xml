@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP CO Financial Controlling (Nordics)"
+    id="1dd0a06d-3d7e-45ca-938f-3b380d459c5d"
+    documentation="SAP Controlling (Nordic Instance)">
+  <properties
+      key="Business Unit"
+      value="Group"/>
+</archimate:ApplicationComponent>

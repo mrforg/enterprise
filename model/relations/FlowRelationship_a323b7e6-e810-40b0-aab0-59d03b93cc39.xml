@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pricing"
+    id="a323b7e6-e810-40b0-aab0-59d03b93cc39"
+    documentation="Ref: 1.6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c3e7a8e7-e9c1-4283-bbe5-f643f4d65644.xml#c3e7a8e7-e9c1-4283-bbe5-f643f4d65644"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_74c5bdfc-3545-45dc-82a1-8d781c093ec8.xml#74c5bdfc-3545-45dc-82a1-8d781c093ec8"/>
+</archimate:FlowRelationship>

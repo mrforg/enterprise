@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRMS 91"
+    id="c3e7a8e7-e9c1-4283-bbe5-f643f4d65644"
+    documentation="Commerical and Operations ERP">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:ApplicationComponent>

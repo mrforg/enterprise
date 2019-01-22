@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP ECC (Nordics Instance)"
+    id="d958b4ca-2465-4015-9412-52c3db40e7bd"
+    documentation="Nordics SAP Instance">
+  <properties
+      key="Business Unit"
+      value="Group"/>
+</archimate:ApplicationComponent>

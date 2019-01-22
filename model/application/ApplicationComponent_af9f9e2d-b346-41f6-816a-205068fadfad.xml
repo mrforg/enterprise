@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3DVIA"
+    id="af9f9e2d-b346-41f6-816a-205068fadfad"
+    documentation="Drawing Tool">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:ApplicationComponent>
