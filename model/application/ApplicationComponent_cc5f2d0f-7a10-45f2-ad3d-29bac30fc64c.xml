@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brightsign"
+    id="cc5f2d0f-7a10-45f2-ad3d-29bac30fc64c"
+    documentation="Digital Signage Solution in Guildford/Kensington Magnet stores (9 Bank screens)">
+  <properties
+      key="Business Unit"
+      value="Nobia UK"/>
+</archimate:ApplicationComponent>

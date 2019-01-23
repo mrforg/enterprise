@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDS Web Orders (Andersons)"
+    id="d0e37218-1e54-4fb5-80c7-d1ad761f8b9f"
+    documentation="Web front end to GDS. Used by Magnet 3rd Party to place orders.">
+  <properties
+      key="Business Unit"
+      value="Nobia UK"/>
+</archimate:ApplicationComponent>

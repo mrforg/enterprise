@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RAC Form"
+    id="b3eb1e32-86ca-4c67-85c4-66d1e2f49147"
+    documentation="Magnet Replacement Order Form -Darlington&#xD;&#xA;&#xD;&#xA;http://nukvbdciceland/intranet/replacementorders/kjp_rac.aspx">
+  <properties
+      key="Business Unit"
+      value="Nobia UK"/>
+</archimate:ApplicationComponent>

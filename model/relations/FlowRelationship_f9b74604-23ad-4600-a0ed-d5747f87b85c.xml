@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replacement Orders"
+    id="f9b74604-23ad-4600-a0ed-d5747f87b85c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b3eb1e32-86ca-4c67-85c4-66d1e2f49147.xml#b3eb1e32-86ca-4c67-85c4-66d1e2f49147"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14.xml#id-14"/>
+</archimate:FlowRelationship>
