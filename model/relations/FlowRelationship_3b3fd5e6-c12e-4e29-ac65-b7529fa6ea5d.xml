@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoices- Scanned Images"
+    id="3b3fd5e6-c12e-4e29-ac65-b7529fa6ea5d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_55347a2f-65d0-476b-81c3-4cb66d6fc240.xml#55347a2f-65d0-476b-81c3-4cb66d6fc240"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ccb2e707-b856-4067-b1bc-bf8d43b67617.xml#ccb2e707-b856-4067-b1bc-bf8d43b67617"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Data"
+    id="dd43d9a4-e64b-40b2-bbd5-7e6598f1b2ef"
+    documentation="PO Refs, dates, invoice number etc">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_55347a2f-65d0-476b-81c3-4cb66d6fc240.xml#55347a2f-65d0-476b-81c3-4cb66d6fc240"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ccb2e707-b856-4067-b1bc-bf8d43b67617.xml#ccb2e707-b856-4067-b1bc-bf8d43b67617"/>
+</archimate:FlowRelationship>

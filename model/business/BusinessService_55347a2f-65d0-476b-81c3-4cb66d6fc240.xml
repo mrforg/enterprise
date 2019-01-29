@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kollector"
+    id="55347a2f-65d0-476b-81c3-4cb66d6fc240"
+    documentation="Invoice Scanning Service ">
+  <properties
+      key="Business Unit"
+      value="Nobia Norway"/>
+</archimate:BusinessService>
