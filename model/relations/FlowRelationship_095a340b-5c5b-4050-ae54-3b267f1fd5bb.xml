@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSS Responce "
+    id="095a340b-5c5b-4050-ae54-3b267f1fd5bb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_39b79c87-3237-4205-b606-91deb357f85a.xml#39b79c87-3237-4205-b606-91deb357f85a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_611d7b25-e888-4e76-b48e-22a06c41c48c.xml#611d7b25-e888-4e76-b48e-22a06c41c48c"/>
+</archimate:FlowRelationship>
