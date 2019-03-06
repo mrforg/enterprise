@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Item Price Responce "
+    id="1c0eee3e-0f47-41fd-aa7d-4b7db44ef456">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_565ed929-efb2-4a07-b34c-64c2b247e0c4.xml#565ed929-efb2-4a07-b34c-64c2b247e0c4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_611d7b25-e888-4e76-b48e-22a06c41c48c.xml#611d7b25-e888-4e76-b48e-22a06c41c48c"/>
+</archimate:FlowRelationship>
