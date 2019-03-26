@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VFM Suppliers"
+    id="aac4b3e5-b3a4-4f52-a41b-3d6b63ed997a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5a5067b8-9beb-474a-b418-74abc3080b7b.xml#5a5067b8-9beb-474a-b418-74abc3080b7b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3981e342-4f5f-4224-8dc9-f8e7f7cc17aa.xml#3981e342-4f5f-4224-8dc9-f8e7f7cc17aa"/>
+</archimate:FlowRelationship>

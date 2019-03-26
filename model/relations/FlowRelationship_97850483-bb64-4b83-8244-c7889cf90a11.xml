@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VFM Hub Product"
+    id="97850483-bb64-4b83-8244-c7889cf90a11">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5a5067b8-9beb-474a-b418-74abc3080b7b.xml#5a5067b8-9beb-474a-b418-74abc3080b7b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fd15f625-79b0-4389-a444-9cfd419bb97c.xml#fd15f625-79b0-4389-a444-9cfd419bb97c"/>
+</archimate:FlowRelationship>
