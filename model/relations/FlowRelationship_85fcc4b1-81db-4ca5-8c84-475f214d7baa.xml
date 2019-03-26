@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scanned Invoices"
+    id="85fcc4b1-81db-4ca5-8c84-475f214d7baa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-22.xml#id-22"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3f27e271-ccd6-438c-bf55-ddffc1397ce6.xml#id-3f27e271-ccd6-438c-bf55-ddffc1397ce6"/>
+</archimate:FlowRelationship>

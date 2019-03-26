@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interco Transfers"
+    id="56d56613-bfa5-481d-94e6-14cec4e965c5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_d16ca63e-9330-4969-8e2e-35afb4d6840f.xml#d16ca63e-9330-4969-8e2e-35afb4d6840f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-19.xml#id-19"/>
+</archimate:FlowRelationship>

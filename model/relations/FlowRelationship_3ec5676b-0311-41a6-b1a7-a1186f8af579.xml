@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data"
+    id="3ec5676b-0311-41a6-b1a7-a1186f8af579">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_25828d6e-c180-413c-8563-2f7c87b4d0a0.xml#25828d6e-c180-413c-8563-2f7c87b4d0a0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3f27e271-ccd6-438c-bf55-ddffc1397ce6.xml#id-3f27e271-ccd6-438c-bf55-ddffc1397ce6"/>
+</archimate:FlowRelationship>

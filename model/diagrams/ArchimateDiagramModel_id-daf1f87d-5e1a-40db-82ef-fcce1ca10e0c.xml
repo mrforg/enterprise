@@ -351,6 +351,7 @@
           fontColor="#000000"
           lineWidth="2"
           lineColor="#0000ff"
+          textPosition="2"
           source="id-d06f616a-9577-4249-9461-bea6da312a0a"
           target="id-7fd573d4-d257-4653-a347-80f9963cba52">
         <bendpoints

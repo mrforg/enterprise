@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PFR Goods Receipts"
+    id="06d963f2-eaf6-4044-814f-dfe37691574b"
+    documentation="Items purchased from external suppliers are goods receipted in S4 and the stock is posted to GDS">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3f27e271-ccd6-438c-bf55-ddffc1397ce6.xml#id-3f27e271-ccd6-438c-bf55-ddffc1397ce6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14.xml#id-14"/>
+</archimate:FlowRelationship>
