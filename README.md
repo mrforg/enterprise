@@ -16,7 +16,9 @@ Based on Nobia's requirements and to ease adoption we have decided to use a subs
 
 ![Standard View](standard_view.jpg)
 
+Each element in this standard model is described below-
 
+### Application Component ####
 
-
+![Application Component] (application_component.jpg)
 
