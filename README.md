@@ -10,7 +10,7 @@ The Archi modelling tool that is used can be downloaded from [here](https://www.
 
 ## *ArchiMate at Nobia* ##
 
-The ArchiMate modelling is designed to allow users to model the Application, Business, Technology layers of an IT architecture. In addition, it provides *extensions* that allow for modelling of Motivation, Implementation and Strategic elements of an IT architecture. In effect the full ArchiMate specifcation allows for high-level modelling of *anything* that might relate to an IT system/change.
+The ArchiMate modelling language is designed to allow users to model the Application, Business, Technology layers of an IT architecture. In addition, it provides *extensions* that allow for modelling of Motivation, Implementation and Strategic elements of an architecture. In effect the full ArchiMate specifcation allows for high-level modelling of *anything* that might relate to an IT system/change.
 
 Based on Nobia's requirements and to ease adoption we have decided to use a subset of the full ArchiMate notation when building the Nobia Enterprise Application Model (as per the diagram below).
 
