@@ -14,6 +14,8 @@ The ArchiMate modelling language is designed to allow users to model the Applica
 
 Based on Nobia's requirements and to ease adoption we have decided to use a subset of the full ArchiMate notation when building the Nobia Enterprise Application Model (as per the diagram below).
 
+![Standard View](standard_view.jpg)
+
 
 
 
