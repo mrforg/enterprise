@@ -20,5 +20,5 @@ Each element in this standard model is described below-
 
 ### Application Component ####
 
-![Application Component] (application_component.jpg)
+![Application Component](application_component.jpg)
 
