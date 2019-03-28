@@ -20,7 +20,7 @@ Each element in this standard model is described below-
 
 ### Application Components ####
 
-![Application Component](application_component.jpg)
+![Application Component](./archi_images/application_component.jpg)
 
 This is the common symbol used to represent 'Applications'. The definition of what consititues an 'Application' can be subjective (depending on what the Architect is looking to describe). In the context of the Nobia Enterprise Model 'Applications' represent software products, from a particular software vendor that serve a particular business unit or function. For example, we refer to the various PRMS systems by their numbers (PRMS52, PRMS61 etc) and each of these systems serve a particular brand. 
 
