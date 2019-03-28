@@ -28,6 +28,34 @@ In some cases the application may well support multiple business functions, and 
 
 ![SAP example](./archi_images/sap_example.jpg)
 
+### Relations ###
+
+#### Line Types ####
+
+The Archimate notation provides support for modelling a vast array of relationship types between components within a model.
+For the sake of simplicity we have decided to use one of two relationship types in our models.
+
+![Line Types](./archi_images/lines.jpg)
+
+**Flows** - These lines represent the flow of information between components. They are represented as dotted lines with an arrow-head denoting the direction flow
+
+**Asscociations**- These are lines are used to represent where components are *asscociated*. These realtions are represented as a single solid line with no directional arrow (as this is just a generic/logical link).
+
+#### Flow Types ####
+
+When adding flows to our Nobia models we will use te following notation to provide some indication of how the flow is implemented from a technology perspective. All flows should be labelled with a high-level description of the type of data that is flowing e.g. Customer, Invoices ect
+
+![Flow Types](./archi_images/flows.jpg)
+
+*Blue Arrows* are data flows that are impemented using a SAP Middleware component such as PO. 
+
+*Red Arrows* are data flows that implemented using a non-SAP Middleware component such as iCore.
+
+*Grey Arrows* are flows that don't pass through a middleware component e.g. where a files is dumped into a shared folder somewhere to be picked up by another **system process**
+
+*Grey Arrows with a file* are flows where a file is produced by a system and picked up by a **business actor**
+
+
 ### Business Actors ###
 
 ![actor](./archi_images/actor.jpg)
