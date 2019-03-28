@@ -30,5 +30,10 @@ In some cases the application may well support multiple business functions, and 
 
 ### Business Actor ###
 
+![actor](actor.jpg)
+
+A business actor is used to represent a generic role or group of indivduals that send data to or receive data from a Nobia system. In our Nobia model Actors genrally represent an internal business role/department e.g. Payroll maan or a generic representation of third-parties e.g B2B Customers
+
+
 
 
