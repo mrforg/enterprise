@@ -37,7 +37,7 @@ For the sake of simplicity we have decided to use one of two relationship types 
 
 ![Line Types](./archi_images/lines.jpg)
 
-- *Flows* - These lines represent the flow of information between components. They are represented as dotted lines with an arrow-head denoting the direction flow
+- *Flows* - These lines represent the flow of information between components. They are represented as dotted lines with an arrow-head denoting the direction of the flow
 
 - *Asscociations*- These are lines are used to represent where components are *asscociated*. These realtions are represented as a single solid line with no directional arrow (as this is just a generic/logical link).
 
