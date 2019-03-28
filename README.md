@@ -28,3 +28,7 @@ In some cases the application may well support multiple business functions, and 
 
 ![SAP example](sap_example.jpg)
 
+### Business Actor ###
+
+
+
