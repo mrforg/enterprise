@@ -37,9 +37,9 @@ For the sake of simplicity we have decided to use one of two relationship types 
 
 ![Line Types](./archi_images/lines.jpg)
 
-**Flows** - These lines represent the flow of information between components. They are represented as dotted lines with an arrow-head denoting the direction flow
+- *Flows* - These lines represent the flow of information between components. They are represented as dotted lines with an arrow-head denoting the direction flow
 
-**Asscociations**- These are lines are used to represent where components are *asscociated*. These realtions are represented as a single solid line with no directional arrow (as this is just a generic/logical link).
+- *Asscociations*- These are lines are used to represent where components are *asscociated*. These realtions are represented as a single solid line with no directional arrow (as this is just a generic/logical link).
 
 #### Flow Types ####
 
@@ -47,13 +47,13 @@ When adding flows to our Nobia models we will use te following notation to provi
 
 ![Flow Types](./archi_images/flows.jpg)
 
-*Blue Arrows* are data flows that are impemented using a SAP Middleware component such as PO. 
+- *Blue Arrows* are data flows that are impemented using a SAP Middleware component such as PO. 
 
-*Red Arrows* are data flows that implemented using a non-SAP Middleware component such as iCore.
+- *Red Arrows* are data flows that implemented using a non-SAP Middleware component such as iCore.
 
-*Grey Arrows* are flows that don't pass through a middleware component e.g. where a files is dumped into a shared folder somewhere to be picked up by another **system process**
+- *Grey Arrows* are flows that don't pass through a middleware component e.g. where a files is dumped into a shared folder somewhere to be picked up by another **system process**
 
-*Grey Arrows with a file* are flows where a file is produced by a system and picked up by a **business actor**
+- *Grey Arrows with a file* are flows where a file is produced by a system and picked up by a **business actor**
 
 
 ### Business Actors ###
@@ -80,7 +80,7 @@ Business capabilities are used in the Nobia Architect model to represent broad g
 
 This notation is used to describe logical groupings of business fucntionality that may map directly on to a single application (or may be spread accross multiple applications). Accounts Payable is an example of business function.
 
-### Location ###
+### Locations ###
 
 ![location](./archi_images/location.jpg)
 
