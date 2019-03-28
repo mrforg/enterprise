@@ -26,3 +26,5 @@ This is the common symbol used to represent 'Applications'. The definition of wh
 
 In some cases the application may well support multiple business functions, and may be modular in its internal structure. In this case it may be useful to represent the sub-modules as Application Components in their own right. A good example of this is SAP ECC as shown below.
 
+![SAP example](sap_example.jpg)
+
