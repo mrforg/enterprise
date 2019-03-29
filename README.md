@@ -24,7 +24,7 @@ Each element in this standard model is described below-
 
 This is the common symbol used to represent 'Applications'. The definition of what constitutes an 'Application' can be subjective (depending on what the Architect is looking to describe). In the context of the Nobia Enterprise Model 'Applications' generally represent software products, often developed by a particular software vendor, that serve a particular business unit or function. For example, we refer to the various PRMS systems by their numbers (PRMS52, PRMS61 etc) and each of these systems serve a particular brand. 
 
-In some cases the application may support multiple business functions, and may be modular in its internal structure. In this case it may be useful to represent the sub-modules as Application Components in their own right. A good example of this is SAP ECC as shown below.
+In some cases the application may support multiple business functions, and may be modular in its internal structure. In this scenario it may be useful to represent the sub-modules as Application Components in their own right. A good example of this is SAP ECC as shown below.
 
 ![SAP example](./archi_images/sap_example.jpg)
 
